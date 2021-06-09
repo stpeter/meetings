@@ -10,7 +10,7 @@ Privacy CG Virtual Face to Face, May 18-19, 2021
 * Note on Upcoming WebID workshop - https://github.com/WICG/WebID/blob/main/meetings/2021/25-26_May_2021.md - for those interested in discussing WebID/Identity further.
 * 
 
-## [Storage Partitioning](https://github.com/privacycg/storage-partitioning) (Anne Van Kesteren, scribe Peter Saint-Andrew
+## [Storage Partitioning](https://github.com/privacycg/storage-partitioning) (Anne Van Kesteren, scribe Peter Saint-Andre)
 Adjacent Standards update (Anne van Kesteren [Mozilla])
 * The purpose of SP is that nested documents shouldn't be able to share state with other top-level documents
 * This is a big effort because traditionally a lot of state has been shared among these contexts (font cache, cookies, DNS, etc.)
